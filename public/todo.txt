@@ -1,0 +1,18 @@
+Get tiny MCE for comment
+
+benerkeun edit ✓
+
+User harus terdaftar di web untuk menggunakan layanan Forum✓
+Satu kategori dapat memiliki banyak pertanyaan.✓
+User dapat membuat pertanyaan berupa: tulisan, gambar, dan kategorinya.✓
+Seorang User dapat mengubah profile nya sendiri.✓
+Pada halaman profile terdapat biodata, email, umur, dan alamat✓
+User dapat menghapus, mengedit, dan menambah kategori ✓
+pasang minimal 3 Library/Package di luar Laravel Contohnya : sweet alert, laravel excel, laravel pdf, laravel file manager, Datatables, TinyMCE, dll. ✓
+User dapat membuat, mengedit, dan menghapus pada pertanyaan milik sendiri.✓
+================================================================================================================================
+YANG BELOM
+
+Seorang User dapat memberi jawaban dari pertayaan User lainnya. Sebuah pentayaan dapat memiliki banyak jawaban dari user yang berbeda .(Kerjaan Eko)
+User dapat membuat, menghapus dan mengedit jawaban milik sendiri (Kerjaan Eko)
+

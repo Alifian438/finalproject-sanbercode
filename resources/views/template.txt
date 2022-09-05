@@ -1,0 +1,9 @@
+@extends('layouts.master')
+
+@section('title')
+    // insert title here
+@endsection
+
+@section('content')
+    // insert content here
+@endsection
